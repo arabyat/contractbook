@@ -1,0 +1,27 @@
+
+.nav_bar_div{
+    padding: 8px 4%;
+    background-color: #233e8b;
+}
+
+.a1_nav_bar{
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
+.head_row{
+    margin: 10% auto 0;
+}
+
+#title_image{
+    width: 120%;
+    padding: 25% 0;
+}
+.title_button{
+    margin: auto 20%;
+}
+/* 
+@media (max-width:1000px){
+    #title_image{
+        width: 0;
+    }
+} */
